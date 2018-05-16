@@ -6,6 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("Hello, world!");// test
         int a;
+        int b;
         //ха -ха
         //123
 
