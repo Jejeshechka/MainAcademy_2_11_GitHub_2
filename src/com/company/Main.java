@@ -10,7 +10,7 @@ public class Main {
         //123
 
         System.out.println("Hello, Иван!");//
-
+        System.out.println("Hello, Ivan");
         //для второй ветки
 
 //тест ну-ну
