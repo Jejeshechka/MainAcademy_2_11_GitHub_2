@@ -6,6 +6,8 @@ public class Main {
 	// write your code here
         System.out.println("Hello, world!");// test
         int a;
+        //ха -ха
+        //123
 
         System.out.println("Hello, Иван!");//
 
