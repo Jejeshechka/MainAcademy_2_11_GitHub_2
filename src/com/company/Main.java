@@ -6,6 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Hello, world!");// test
         int a;
-        //куку
+        //ха -ха
     }
 }
