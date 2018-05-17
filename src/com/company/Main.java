@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Hello, world!");// test
         int a;
         int b;
+        int c;
         //ха -ха
         //123
 
